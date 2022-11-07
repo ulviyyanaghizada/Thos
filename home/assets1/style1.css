@@ -1,0 +1,23 @@
+h1{
+    padding-top: 200px;
+    padding-left: 350px;
+    font-size: 80px;
+    font-family: 'Island Moments', cursive;
+}
+h2{
+    padding-top: 20px;
+    padding-left: 550px;
+    font-size: 65px;
+    font-family: 'Island Moments', cursive;
+}
+h3{
+    padding-top: 25px;
+    padding-left: 385px;
+    font-size: 25px;
+}
+.col .card{
+    padding: 40px;
+}
+h4{
+    font-size: 15px;
+}
